@@ -12,7 +12,7 @@ Este curso es una introducción **simple** y **completa** para el lenguaje de pr
 
 En este repositorio encontrarás la totalidad del curso, en especifico por cada módulo encontrarás:
 1. Una presentación de la temática en video.
-2. Los slides utilizados en la presentión en formato PDF.
+2. Los slides utilizados en las presentaciones, en formato PDF.
 3. Programas escritos en C que ejemplifican y profundizan lo visto.
 
 Además, dentro de este mismo documento encontrarás links donde podrás encontrar los mismos videos pero en la plataforma Loom, donde podrás dejar preguntas que serán eventualmente respondidas. **Recomendamos esta forma de ver el curso**.
@@ -22,7 +22,7 @@ Además, dentro de este mismo documento encontrarás links donde podrás encontr
 
 A continuación están los módulos en la plataforma Loom:
 
-1. [**Hello World!**](https://www.loom.com/share/4ca946390da647fdb8ba7fb89e6a5ca1)
+0. [**Hello World!**](https://www.loom.com/share/4ca946390da647fdb8ba7fb89e6a5ca1)
 2. **Tipos**
 3. [**Flujo**](https://www.loom.com/share/103192e770524abc8b6b83446949f167)
 4. **Funciones**
