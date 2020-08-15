@@ -6,13 +6,13 @@ Este trabajo se encuentra protegido bajo la licencia **Creative Commons Attribut
 
 ## ¿Que es este curso? 🤔
 
-Este curso es una introducción **simple** y **completa** para el lenguaje de programación C, orientado a facilitar el pasar por cursos como Estructuras de Datos, Sistemas Operativos y similares. Está conformado por 12 cápsulas distintos que presentan de forma gradual los contenidos mínimos necesarios para poder utilizar el lenguaje de forma eficaz.
+Este curso es una introducción **simple** y **completa** para el lenguaje de programación C, orientado a facilitar el pasar por cursos como Estructuras de Datos, Sistemas Operativos y similares. Está conformado por 12 cápsulas distintas que presentan de forma gradual los contenidos mínimos necesarios para poder utilizar el lenguaje de forma eficaz.
 
 ## ¿Que hay en este repositorio? 🗂
 
 En este repositorio encontrarás la totalidad del curso, en especifico por cada cápsula encontrarás:
 1. Una presentación de la temática en video.
-2. Los slides utilizados en las presentaciones, en formato PDF.
+2. Los slides utilizados en la presentación, en formato PDF.
 3. Programas escritos en C que ejemplifican y profundizan lo visto.
 
 Además, dentro de este mismo documento encontrarás links donde podrás encontrar los mismos videos pero en la plataforma Loom, donde podrás dejar preguntas que serán eventualmente respondidas. **Recomendamos esta forma de ver el curso**.
