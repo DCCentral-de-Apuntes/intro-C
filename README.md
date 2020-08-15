@@ -19,7 +19,7 @@ Además, dentro de este mismo documento encontrarás links donde podrás encontr
 
 ## Cápsulas 🧾
 
-A continuación están los cápsulas en la plataforma Loom:
+A continuación está la información de las cápsulas:
  
 | Video en Loom | Slides | Códigos |
 | :---: | :---: | :---: |
