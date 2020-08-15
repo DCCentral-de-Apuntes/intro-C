@@ -1,6 +1,6 @@
 # Intro a C 👩‍💻👨‍💻
 
-*__With 💜 by @vichoeq and @knowyourselves__*
+*__With 💜 by @vichoeq and @KnowYourselves__*
 
 Este trabajo se encuentra protegido bajo la licencia **Creative Commons Attribution Share Alike 4.0 International**. 
 
