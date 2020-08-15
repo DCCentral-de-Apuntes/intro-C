@@ -34,7 +34,7 @@ A continuación están los cápsulas en la plataforma Loom:
  **Valgrind** | ❌ | ❌
  **Structs** | ❌ | ❌
  **Módulos** | ❌ | ❌
- [**Make**](https://www.loom.com/share/ea4e8acb990942f49c4958426614cb91) | [📊](https://github.com/DCCentral-de-Apuntes/intro-C/tree/master/Capsulas/11%20-%20Make) | ❌
+ [**Make**](https://www.loom.com/share/ea4e8acb990942f49c4958426614cb91) | [📊](https://github.com/DCCentral-de-Apuntes/intro-C/tree/master/Capsulas/11%20-%20Make/11%20-%20Make.pdf) | ❌
 
 ## Feedback 🧐
 
