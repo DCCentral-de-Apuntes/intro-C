@@ -12,10 +12,10 @@ Este curso es una introducción **simple** y **completa** para el lenguaje de pr
 
 En este repositorio encontrarás la totalidad del curso, en especifico por cada cápsula encontrarás:
 1. Una presentación de la temática en video.
-2. Los slides utilizados en la presentación, en formato PDF.
+2. Los slides utilizados en la presentación en formato PDF.
 3. Programas escritos en C que ejemplifican y profundizan lo visto.
 
-Las presentaciones se encuentran en la plataforma Loom. En este mismo archivo encontrarás los links correspondientes.
+Las presentaciones se encuentran en la plataforma Loom, en la cual pueden dejar dudas que serán eventualmente respondidas. En este mismo archivo encontrarás los links correspondientes.
 
 ## Cápsulas 🧾
 
@@ -33,7 +33,7 @@ A continuación se encuentran todos los links relevantes para cada cápsula. Des
 [**Memoria**](https://www.loom.com/share/936b6177d19847a6af0b1e18899a6c0a) | [📊](https://github.com/DCCentral-de-Apuntes/intro-C/blob/master/Capsulas/07%20-%20Memoria/07%20-%20Memoria.pdf) | ❌
  **Valgrind** | ❌ | ❌
  **Structs** | ❌ | ❌
- [**Módulos**](https://www.loom.com/share/614233bb3bbc475c8d73345cc963963a) | ❌ | ❌
+ [**Módulos**](https://www.loom.com/share/614233bb3bbc475c8d73345cc963963a) | [📊](https://github.com/DCCentral-de-Apuntes/intro-C/blob/master/Capsulas/10%20-%20Modulos/10%20-%20Modulos.pdf) | ❌
  [**Make**](https://www.loom.com/share/ea4e8acb990942f49c4958426614cb91) | [📊](https://github.com/DCCentral-de-Apuntes/intro-C/tree/master/Capsulas/11%20-%20Make/11%20-%20Make.pdf) | ❌
 
 ## Feedback 🧐
