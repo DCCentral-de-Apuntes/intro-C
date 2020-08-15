@@ -31,7 +31,7 @@ A continuación se encuentran todos los links relevantes para cada cápsula. Des
  [**Arreglos**](https://www.loom.com/share/08134a0ba3164f9cabbdd3f8f3e837b6) | [📊](https://github.com/DCCentral-de-Apuntes/intro-C/blob/master/Capsulas/05%20-%20Arreglos/05%20-%20Arreglos.pdf) | ❌
  [**Strings**](https://www.loom.com/share/9ae5919ef6d4442db4aa917cf07ae7b3) | [📊](https://github.com/DCCentral-de-Apuntes/intro-C/blob/master/Capsulas/06%20-%20Strings/06%20-%20Strings.pdf) | ❌
 [**Memoria**](https://www.loom.com/share/936b6177d19847a6af0b1e18899a6c0a) | [📊](https://github.com/DCCentral-de-Apuntes/intro-C/blob/master/Capsulas/07%20-%20Memoria/07%20-%20Memoria.pdf) | ❌
- **Valgrind** | ❌ | ❌
+ [**Valgrind**](https://www.loom.com/share/a5dcebe7f44a4c5da8d9e10ad7e6dc6e) | ❌ | ❌
  [**Structs**](https://www.loom.com/share/600819d5a75042a99b3003c7edf92bb9) | [📊](https://github.com/DCCentral-de-Apuntes/intro-C/blob/master/Capsulas/09%20-%20Structs/09%20-%20Structs.pdf) | ❌
  [**Módulos**](https://www.loom.com/share/a07f3c11f0a942258d6a526dadd6cbaa) | [📊](https://github.com/DCCentral-de-Apuntes/intro-C/blob/master/Capsulas/10%20-%20Modulos/10%20-%20Modulos.pdf) | ❌
  [**Make**](https://www.loom.com/share/ea4e8acb990942f49c4958426614cb91) | [📊](https://github.com/DCCentral-de-Apuntes/intro-C/tree/master/Capsulas/11%20-%20Make/11%20-%20Make.pdf) | ❌
