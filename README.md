@@ -15,7 +15,7 @@ En este repositorio encontrarás la totalidad del curso, en especifico por cada 
 2. Los slides utilizados en la presentación, en formato PDF.
 3. Programas escritos en C que ejemplifican y profundizan lo visto.
 
-Las presentaciones se encuentran en la plataforma Loom. En este mismo archivos encontrarás los links correspondientes.
+Las presentaciones se encuentran en la plataforma Loom. En este mismo archivo encontrarás los links correspondientes.
 
 ## Cápsulas 🧾
 
