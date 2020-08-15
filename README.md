@@ -19,7 +19,7 @@ Además, dentro de este mismo documento encontrarás links donde podrás encontr
 
 ## Cápsulas 🧾
 
-A continuación están los cápsulas en la plataforma Loom:
+A continuación se encuentran todo los links relevantes para cada cápsula. Desde la plataforma Loom pueden descargar los videos, pero recuerden que estan cubiertos por la misma licencia que este repositorio.
  
 | Video en Loom | Slides | Códigos |
 | :---: | :---: | :---: |
