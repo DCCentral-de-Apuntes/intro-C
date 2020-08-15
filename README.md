@@ -22,19 +22,19 @@ Además, dentro de este mismo documento encontrarás links donde podrás encontr
 A continuación están los cápsulas en la plataforma Loom:
  
 | Video en Loom | Slides |
-|--- | --- |
-[**Hello World!**](https://www.loom.com/share/4ca946390da647fdb8ba7fb89e6a5ca1) | [⏬](https://github.com/DCCentral-de-Apuntes/intro-C/blob/master/00%20-%20Hello%20World!/00%20-%20Hello%20World.pdf)
-**Tipos** | 🔜
- [**Flujo**](https://www.loom.com/share/103192e770524abc8b6b83446949f167) | [(_slides_)](https://github.com/DCCentral-de-Apuntes/intro-C/blob/master/02%20-%20Flujo/02%20-%20Flujo.pdf)
- **Funciones** | x
- **Punteros** | x
- [**Arreglos**](https://www.loom.com/share/08134a0ba3164f9cabbdd3f8f3e837b6) | [(_slides_)](https://github.com/DCCentral-de-Apuntes/intro-C/blob/master/05%20-%20Arreglos/05%20-%20Arreglos.pdf)
- [**Strings**](https://www.loom.com/share/9ae5919ef6d4442db4aa917cf07ae7b3) | [(_slides_)](https://github.com/DCCentral-de-Apuntes/intro-C/blob/master/06%20-%20Strings/06%20-%20Strings.pdf)
-[**Memoria**](https://www.loom.com/share/936b6177d19847a6af0b1e18899a6c0a) | [(_slides_)](https://github.com/DCCentral-de-Apuntes/intro-C/blob/master/07%20-%20Memoria/07%20-%20Memoria.pdf)
- **Valgrind** | x
- **Structs** | x
- **Módulos** | x
- [**Make**](https://www.loom.com/share/ea4e8acb990942f49c4958426614cb91) | [(_slides_)](https://github.com/DCCentral-de-Apuntes/intro-C/tree/master/11%20-%20Make)
+|--- | :---: |
+[**Hello World!**](https://www.loom.com/share/4ca946390da647fdb8ba7fb89e6a5ca1) | [📊](https://github.com/DCCentral-de-Apuntes/intro-C/blob/master/00%20-%20Hello%20World!/00%20-%20Hello%20World.pdf)
+**Tipos** | ❌
+ [**Flujo**](https://www.loom.com/share/103192e770524abc8b6b83446949f167) | [📊](https://github.com/DCCentral-de-Apuntes/intro-C/blob/master/02%20-%20Flujo/02%20-%20Flujo.pdf)
+ **Funciones** | ❌
+ **Punteros** | ❌
+ [**Arreglos**](https://www.loom.com/share/08134a0ba3164f9cabbdd3f8f3e837b6) | [📊](https://github.com/DCCentral-de-Apuntes/intro-C/blob/master/05%20-%20Arreglos/05%20-%20Arreglos.pdf)
+ [**Strings**](https://www.loom.com/share/9ae5919ef6d4442db4aa917cf07ae7b3) | [📊](https://github.com/DCCentral-de-Apuntes/intro-C/blob/master/06%20-%20Strings/06%20-%20Strings.pdf)
+[**Memoria**](https://www.loom.com/share/936b6177d19847a6af0b1e18899a6c0a) | [📊](https://github.com/DCCentral-de-Apuntes/intro-C/blob/master/07%20-%20Memoria/07%20-%20Memoria.pdf)
+ **Valgrind** | ❌
+ **Structs** | ❌
+ **Módulos** | ❌
+ [**Make**](https://www.loom.com/share/ea4e8acb990942f49c4958426614cb91) | [📊](https://github.com/DCCentral-de-Apuntes/intro-C/tree/master/11%20-%20Make)
 
 ## Feedback 🧐
 
