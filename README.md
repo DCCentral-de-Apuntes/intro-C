@@ -17,7 +17,7 @@ En este repositorio encontrarás la totalidad del curso, en especifico por cada 
 
 Las presentaciones se encuentran en la plataforma Loom, en la cual pueden dejar dudas que serán eventualmente respondidas. En este mismo archivo encontrarás los links correspondientes.
 
-## Cápsulas 
+## Cápsulas 💊
 
 A continuación se encuentran todos los links relevantes para cada cápsula. Desde la plataforma Loom pueden descargar los videos, pero recuerden que estan cubiertos por la misma licencia que este repositorio.
  
