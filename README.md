@@ -21,19 +21,18 @@ Además, dentro de este mismo documento encontrarás links donde podrás encontr
 
 A continuación están los cápsulas en la plataforma Loom:
 
-0. [**Hello World!**](https://www.loom.com/share/4ca946390da647fdb8ba7fb89e6a5ca1)
+0. [**Hello World!**](https://www.loom.com/share/4ca946390da647fdb8ba7fb89e6a5ca1) - [(_slides_)](https://github.com/DCCentral-de-Apuntes/intro-C/blob/master/00%20-%20Hello%20World!/00%20-%20Hello%20World.pdf)
 2. **Tipos**
-3. [**Flujo**](https://www.loom.com/share/103192e770524abc8b6b83446949f167)
+3. [**Flujo**](https://www.loom.com/share/103192e770524abc8b6b83446949f167) - [(_slides_)](https://github.com/DCCentral-de-Apuntes/intro-C/blob/master/02%20-%20Flujo/02%20-%20Flujo.pdf)
 4. **Funciones**
 5. **Punteros**
-6. [**Arreglos**](https://www.loom.com/share/08134a0ba3164f9cabbdd3f8f3e837b6)
-7. [**Strings**](https://www.loom.com/share/9ae5919ef6d4442db4aa917cf07ae7b3)
-8. [**Memoria**](https://www.loom.com/share/936b6177d19847a6af0b1e18899a6c0a)
+6. [**Arreglos**](https://www.loom.com/share/08134a0ba3164f9cabbdd3f8f3e837b6) - [(_slides_)](https://github.com/DCCentral-de-Apuntes/intro-C/blob/master/05%20-%20Arreglos/05%20-%20Arreglos.pdf)
+7. [**Strings**](https://www.loom.com/share/9ae5919ef6d4442db4aa917cf07ae7b3) - [(_slides_)](https://github.com/DCCentral-de-Apuntes/intro-C/blob/master/06%20-%20Strings/06%20-%20Strings.pdf)
+8. [**Memoria**](https://www.loom.com/share/936b6177d19847a6af0b1e18899a6c0a) - [(_slides_)](https://github.com/DCCentral-de-Apuntes/intro-C/blob/master/07%20-%20Memoria/07%20-%20Memoria.pdf)
 9. **Valgrind**
 10. **Structs**
 11. **Módulos**
-12. [**Make**](https://www.loom.com/share/ea4e8acb990942f49c4958426614cb91)
-
+12. [**Make**](https://www.loom.com/share/ea4e8acb990942f49c4958426614cb91) - [(_slides_)](https://github.com/DCCentral-de-Apuntes/intro-C/tree/master/11%20-%20Make)
 
 ## Feedback 🧐
 
