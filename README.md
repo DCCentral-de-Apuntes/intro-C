@@ -23,11 +23,11 @@ A continuación están los cápsulas en la plataforma Loom:
  
 | Video en Loom | Slides | Códigos |
 | :---: | :---: | :---: |
-[**Hello World!**](https://www.loom.com/share/4ca946390da647fdb8ba7fb89e6a5ca1) | [📊](https://github.com/DCCentral-de-Apuntes/intro-C/blob/master/Capsulas/00%20-%20Hello%20World!/00%20-%20Hello%20World.pdf) | ❌
-**Tipos** | ❌ | ❌
- [**Flujo**](https://www.loom.com/share/103192e770524abc8b6b83446949f167) | [📊](https://github.com/DCCentral-de-Apuntes/intro-C/blob/master/Capsulas/02%20-%20Flujo/02%20-%20Flujo.pdf) | ❌
- **Funciones** | ❌ | ❌
- **Punteros** | ❌ | ❌
+[**Hello World!**](https://www.loom.com/share/4ca946390da647fdb8ba7fb89e6a5ca1) | [📊](https://github.com/DCCentral-de-Apuntes/intro-C/blob/master/Capsulas/00%20-%20Hello%20World!/00%20-%20Hello%20World.pdf) | [📄](https://github.com/DCCentral-de-Apuntes/intro-C/tree/master/Capsulas/00%20-%20Hello%20World!/codigos)
+**Tipos** | ❌ |  [📄](https://github.com/DCCentral-de-Apuntes/intro-C/tree/master/Capsulas/01%20-%20Tipos/codigos)
+ [**Flujo**](https://www.loom.com/share/103192e770524abc8b6b83446949f167) | [📊](https://github.com/DCCentral-de-Apuntes/intro-C/blob/master/Capsulas/02%20-%20Flujo/02%20-%20Flujo.pdf) |  [📄](https://github.com/DCCentral-de-Apuntes/intro-C/tree/master/Capsulas/02%20-%20Flujo/codigos)
+ **Funciones** | ❌ |  [📄](https://github.com/DCCentral-de-Apuntes/intro-C/tree/master/Capsulas/03%20-%20Funciones/codigos)
+ **Punteros** | ❌ |  [📄](https://github.com/DCCentral-de-Apuntes/intro-C/tree/master/Capsulas/04%20-%20Punteros/codigos)
  [**Arreglos**](https://www.loom.com/share/08134a0ba3164f9cabbdd3f8f3e837b6) | [📊](https://github.com/DCCentral-de-Apuntes/intro-C/blob/master/Capsulas/05%20-%20Arreglos/05%20-%20Arreglos.pdf) | ❌
  [**Strings**](https://www.loom.com/share/9ae5919ef6d4442db4aa917cf07ae7b3) | [📊](https://github.com/DCCentral-de-Apuntes/intro-C/blob/master/Capsulas/06%20-%20Strings/06%20-%20Strings.pdf) | ❌
 [**Memoria**](https://www.loom.com/share/936b6177d19847a6af0b1e18899a6c0a) | [📊](https://github.com/DCCentral-de-Apuntes/intro-C/blob/master/Capsulas/07%20-%20Memoria/07%20-%20Memoria.pdf) | ❌
