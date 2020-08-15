@@ -19,7 +19,7 @@ Las presentaciones se encuentran en la plataforma Loom. En este mismo archivo en
 
 ## Cápsulas 🧾
 
-A continuación se encuentran todo los links relevantes para cada cápsula. Desde la plataforma Loom pueden descargar los videos, pero recuerden que estan cubiertos por la misma licencia que este repositorio.
+A continuación se encuentran todos los links relevantes para cada cápsula. Desde la plataforma Loom pueden descargar los videos, pero recuerden que estan cubiertos por la misma licencia que este repositorio.
  
 | Video en Loom | Slides | Códigos |
 | :---: | :---: | :---: |
