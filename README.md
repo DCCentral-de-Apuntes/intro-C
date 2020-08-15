@@ -6,11 +6,11 @@ Este trabajo se encuentra protegido bajo la licencia **Creative Commons Attribut
 
 ## ¿Que es este curso? 🤔
 
-Este curso es una introducción **simple** y **completa** para el lenguaje de programación C, orientado a facilitar el pasar por cursos como Estructuras de Datos, Sistemas Operativos y similares. Está conformado por 12 módulos distintos que presentan de forma gradual los contenidos mínimos necesarios para poder utilizar el lenguaje de forma eficaz.
+Este curso es una introducción **simple** y **completa** para el lenguaje de programación C, orientado a facilitar el pasar por cursos como Estructuras de Datos, Sistemas Operativos y similares. Está conformado por 12 cápsulas distintos que presentan de forma gradual los contenidos mínimos necesarios para poder utilizar el lenguaje de forma eficaz.
 
 ## ¿Que hay en este repositorio? 🗂
 
-En este repositorio encontrarás la totalidad del curso, en especifico por cada módulo encontrarás:
+En este repositorio encontrarás la totalidad del curso, en especifico por cada cápsula encontrarás:
 1. Una presentación de la temática en video.
 2. Los slides utilizados en las presentaciones, en formato PDF.
 3. Programas escritos en C que ejemplifican y profundizan lo visto.
@@ -18,9 +18,9 @@ En este repositorio encontrarás la totalidad del curso, en especifico por cada 
 Además, dentro de este mismo documento encontrarás links donde podrás encontrar los mismos videos pero en la plataforma Loom, donde podrás dejar preguntas que serán eventualmente respondidas. **Recomendamos esta forma de ver el curso**.
 
 
-## Módulos 🧾
+## Cápsulas 🧾
 
-A continuación están los módulos en la plataforma Loom:
+A continuación están los cápsulas en la plataforma Loom:
 
 0. [**Hello World!**](https://www.loom.com/share/4ca946390da647fdb8ba7fb89e6a5ca1)
 2. **Tipos**
@@ -32,5 +32,5 @@ A continuación están los módulos en la plataforma Loom:
 8. [**Memoria**](https://www.loom.com/share/936b6177d19847a6af0b1e18899a6c0a)
 9. **Valgrind**
 10. **Structs**
-11. **Modulos**
+11. **Módulos**
 12. **Make**
