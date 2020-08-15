@@ -33,7 +33,7 @@ A continuación se encuentran todos los links relevantes para cada cápsula. Des
 [**Memoria**](https://www.loom.com/share/936b6177d19847a6af0b1e18899a6c0a) | [📊](https://github.com/DCCentral-de-Apuntes/intro-C/blob/master/Capsulas/07%20-%20Memoria/07%20-%20Memoria.pdf) | ❌
  **Valgrind** | ❌ | ❌
  **Structs** | ❌ | ❌
- **Módulos** | ❌ | ❌
+ [**Módulos**](https://www.loom.com/share/614233bb3bbc475c8d73345cc963963a) | ❌ | ❌
  [**Make**](https://www.loom.com/share/ea4e8acb990942f49c4958426614cb91) | [📊](https://github.com/DCCentral-de-Apuntes/intro-C/tree/master/Capsulas/11%20-%20Make/11%20-%20Make.pdf) | ❌
 
 ## Feedback 🧐
