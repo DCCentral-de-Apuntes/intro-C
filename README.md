@@ -4,11 +4,11 @@
 
 Este trabajo se encuentra protegido bajo la licencia [**Creative Commons Attribution Share Alike 4.0 International**](https://github.com/DCCentral-de-Apuntes/intro-C/blob/master/LICENSE.txt). 
 
-## ¿Que es este curso? 🤔
+## ¿Qué es este curso? 🤔
 
 Este curso es una introducción **simple** y **completa** para el lenguaje de programación C, orientado a facilitar el pasar por cursos como Estructuras de Datos, Sistemas Operativos y similares. Está conformado por 12 cápsulas distintas que presentan de forma gradual los contenidos mínimos necesarios para poder utilizar el lenguaje de forma eficaz.
 
-## ¿Que hay en este repositorio? 🗂
+## ¿Qué hay en este repositorio? 🗂
 
 En este repositorio encontrarás la totalidad del curso, en especifico por cada cápsula encontrarás:
 1. Una presentación de la temática en video.
