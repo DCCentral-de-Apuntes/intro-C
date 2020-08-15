@@ -17,7 +17,6 @@ En este repositorio encontrarás la totalidad del curso, en especifico por cada 
 
 Además, dentro de este mismo documento encontrarás links donde podrás encontrar los mismos videos pero en la plataforma Loom, donde podrás dejar preguntas que serán eventualmente respondidas. **Recomendamos esta forma de ver el curso**.
 
-
 ## Cápsulas 🧾
 
 A continuación están los cápsulas en la plataforma Loom:
@@ -34,3 +33,8 @@ A continuación están los cápsulas en la plataforma Loom:
 10. **Structs**
 11. **Módulos**
 12. [**Make**](https://www.loom.com/share/ea4e8acb990942f49c4958426614cb91)
+
+
+## Feedback 🧐
+
+Si viste el curso o cualquiera de sus módulos estamos extremadamente interesados en tu opinión. Si tienes opiniones respecto al curso o alguno de los módulos, por favor responde este [form](https://forms.gle/vsLycZX8zDrW1LMm9).
