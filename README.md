@@ -12,10 +12,10 @@ Este curso es una introducción **simple** y **completa** para el lenguaje de pr
 
 En este repositorio encontrarás la totalidad del curso, en especifico por cada cápsula encontrarás:
 1. Una presentación de la temática en video.
-2. Los slides utilizados en la presentación, en formato PDF.
+2. Los slides utilizados en la presentación en formato PDF.
 3. Programas escritos en C que ejemplifican y profundizan lo visto.
 
-Las presentaciones se encuentran en la plataforma Loom. En este mismo archivo encontrarás los links correspondientes.
+Las presentaciones se encuentran en la plataforma Loom, en la cual pueden dejar dudas que serán eventualmente respondidas. En este mismo archivo encontrarás los links correspondientes.
 
 ## Cápsulas 🧾
 
