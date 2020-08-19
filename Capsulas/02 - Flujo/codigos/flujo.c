@@ -95,18 +95,19 @@ int main(int argc, char** argv)
 
 
   // Ejemplo de switch, catalogar un char
-  char tipo = 'x';
-  switch (tipo)  // Aqui debe ir la variable a evaluar, no una expresion booleana.
+  // swicth solo funciona con tipos basicos (char, int, float, double)
+  char boton = 'x';
+  switch (boton)  // Aqui debe ir la variable a evaluar, no una expresion logica.
   {
-  case 'a':  // En cada case puede ir una expresion constante.
-    printf("Tipo a!\n");
-    break;
-  case 'b':
-    printf("Tipo b!\n");
-    break;
-  default:
-    printf("Tipo desconocido.\n");
-    break;
+    case 'a':  // En cada case puede ir una expresion constante.
+      printf("Aceptar!\n");
+      break;
+    case 'b':
+      printf("Cancelar!\n");
+      break;
+    default:
+      printf("Boton desconocido\n");
+      break;
   }
 
   return 0;
