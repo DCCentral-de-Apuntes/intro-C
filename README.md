@@ -24,7 +24,7 @@ A continuación se encuentran todos los links relevantes para cada cápsula. Des
 | Video en Loom | Slides | Códigos |
 | :---: | :---: | :---: |
 [**Hello World!**](https://www.loom.com/share/4ca946390da647fdb8ba7fb89e6a5ca1) | [📊](https://github.com/DCCentral-de-Apuntes/intro-C/blob/master/Capsulas/00%20-%20Hello%20World!/00%20-%20Hello%20World.pdf) | [📄](https://github.com/DCCentral-de-Apuntes/intro-C/tree/master/Capsulas/00%20-%20Hello%20World!/codigos)
-**Tipos** | ❌ |  [📄](https://github.com/DCCentral-de-Apuntes/intro-C/tree/master/Capsulas/01%20-%20Tipos/codigos)
+[**Tipos**](https://www.loom.com/share/a3f3dfa095b84b59bf542055d7c9e8fd) | ❌ |  [📄](https://github.com/DCCentral-de-Apuntes/intro-C/tree/master/Capsulas/01%20-%20Tipos/codigos)
  [**Flujo**](https://www.loom.com/share/103192e770524abc8b6b83446949f167) | [📊](https://github.com/DCCentral-de-Apuntes/intro-C/blob/master/Capsulas/02%20-%20Flujo/02%20-%20Flujo.pdf) |  [📄](https://github.com/DCCentral-de-Apuntes/intro-C/tree/master/Capsulas/02%20-%20Flujo/codigos)
  **Funciones** | ❌ |  [📄](https://github.com/DCCentral-de-Apuntes/intro-C/tree/master/Capsulas/03%20-%20Funciones/codigos)
  **Punteros** | ❌ |  [📄](https://github.com/DCCentral-de-Apuntes/intro-C/tree/master/Capsulas/04%20-%20Punteros/codigos)
