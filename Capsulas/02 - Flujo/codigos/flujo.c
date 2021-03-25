@@ -95,7 +95,7 @@ int main(int argc, char** argv)
 
 
   // Ejemplo de switch, catalogar un char
-  // swicth solo funciona con tipos basicos (char, int, float, double)
+  // switch solo funciona con tipos basicos (char, int, float, double)
   char boton = 'x';
   switch (boton)  // Aqui debe ir la variable a evaluar, no una expresion logica.
   {
