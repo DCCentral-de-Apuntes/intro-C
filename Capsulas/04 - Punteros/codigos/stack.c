@@ -1,20 +1,21 @@
 // Instrucciones de uso:
-// gcc 04_stack.c -o stack
+//
+// gcc stack.c -o stack
 // ./stack
 
 // Incluimos standard I/O y standard int
 #include <stdio.h>
 #include <stdint.h>
 
-int main(int argc, char **argv)
+int main(int argc, char** argv)
 {
-  // Obtener la direccion de memoria de dos variables
+  // Definamos dos variables en el stack
   char a = 'a';
   char b = 'b';
-  printf("char y STACK:\n");
 
   // Podemos obserbar que efectivamente se encuentran una después de otra
   // en el stack.
+  printf("char y STACK:\n");
   printf("\tDirecciones:\n\t\ta: %p\n\t\tb: %p\n", &a, &b);
   
   // Esto nos quiere decir que estan a una dirección de memoria de distancia.
@@ -23,7 +24,7 @@ int main(int argc, char **argv)
   // Veamos a cuantos bytes de distancia están.
   printf("\tDiferencia en bytes: %ld (%zu)\n\n", (uint64_t) &b - (uint64_t) &a, sizeof(char));
 
-  // Efectivamente los números calza. Probemos con int:
+  // Efectivamente los números calzan. Probemos con int:
   int c = 2;
   int d = 7;
   printf("int y STACK:\n");

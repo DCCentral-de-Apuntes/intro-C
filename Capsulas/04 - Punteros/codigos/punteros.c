@@ -1,5 +1,6 @@
 // Instrucciones de uso:
-// gcc 04_punteros.c -o punteros
+//
+// gcc punteros.c -o punteros
 // ./punteros
 
 // Incluimos standard I/O
@@ -14,7 +15,7 @@ int change_by_value(int n, int delta)
 
 
 // Cambia un int por "referencia" recibe un int* y un int y no retorna nada.
-void change_by_reference(int *n, int delta)
+void change_by_reference(int* n, int delta)
 {
   *n += delta;
 }
@@ -50,4 +51,6 @@ int main(int argc, char** argv)
   change_by_reference(b, -5);    // b apunta hacia a.
   change_by_reference(*c, -5);   // c apunta hacia b, quien apunta hacia a.
   printf("a   = %d\n", a);
+
+  return 0;
 }
