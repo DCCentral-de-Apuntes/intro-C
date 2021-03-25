@@ -17,7 +17,7 @@ int main(int argc, char** argv)
   // Ejemplo de uso de int
   int a = 15;
   int b = a * 2;
-  printf("%d > %d\n\n", a, b);
+  printf("%d < %d\n\n", a, b);
 
   // Ejemplo de uso de float
   float c = 1.25;
