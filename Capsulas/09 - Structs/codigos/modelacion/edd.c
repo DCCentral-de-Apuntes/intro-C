@@ -78,7 +78,7 @@ int list_at_index(List* list, int index)
 {
   // Nos ubicamos en el indice correspondiente
   List* node = list;
-  for (size_t i = 0; i <= index; i++)
+  for (size_t i = 0; i < index; i++)
   {
     node = node->next;
   }
