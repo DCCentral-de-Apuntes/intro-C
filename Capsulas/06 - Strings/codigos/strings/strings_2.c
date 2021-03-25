@@ -10,7 +10,7 @@
 // caracteres se diferencian, indice por indice
 int string_compare(char* A, int n, char* B, int m)
 {
-  // Nos quedamos con el indice menor y guardamos la diferencia en largo para
+  // Nos quedamos con el largo menor y guardamos la diferencia en largo para
   // contabilizarla al final
   int k;
   int diff;
