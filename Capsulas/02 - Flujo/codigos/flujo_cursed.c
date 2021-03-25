@@ -1,5 +1,6 @@
 // Instrucciones de uso:
-// gcc 02_flujo_cursed.c -o flujo_cursed
+//
+// gcc flujo_cursed.c -o flujo_cursed
 // ./flujo_cursed
 
 // Solo son necesarios los includes, los ;, las llaves y los espacios 
