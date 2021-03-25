@@ -3,7 +3,7 @@
 #######################
 
 # Como cada par .c .h esta en su propia carpeta, debemos incluir esta cada vez
-# que tengamos como dependencia uno de estos archivos o lo compilemos con gccu
+# que tengamos como dependencia uno de estos archivos o lo compilemos con gcc
 #
 # Ademas debemos considerar las dependencias de cada object file
 
