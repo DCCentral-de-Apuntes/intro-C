@@ -1,6 +1,6 @@
 // Instrucciones de uso:
 //
-// gcc struct_y_arrays.c -o struct_y_arrays
+// gcc structs_y_arrays.c -o struct_y_arrays
 // ./struct_y_arrays
 
 // Incluimos standard I/O y standard library 
