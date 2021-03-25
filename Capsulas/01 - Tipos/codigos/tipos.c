@@ -1,5 +1,6 @@
 // Instrucciones de uso:
-// gcc 01_tipos.c -o tipos
+//
+// gcc tipos.c -o tipos
 // ./tipos
 
 // Incluimos standard I/O
