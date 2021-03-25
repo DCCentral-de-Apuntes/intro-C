@@ -4,7 +4,7 @@
 // gcc A.c B.c main.c -o main
 // F
 
-// Incluimos la módulo "a" (RIP)
+// Incluimos al módulo "a" (RIP)
 #include "A.h"
 
 
