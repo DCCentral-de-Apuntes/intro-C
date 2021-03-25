@@ -1,5 +1,6 @@
 // Instrucciones de uso:
-// gcc 00_helloworld.c -o helloworld
+//
+// gcc helloworld.c -o helloworld
 // ./helloworld
 
 // Incluimos standard I/O
