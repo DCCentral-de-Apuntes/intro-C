@@ -1,7 +1,7 @@
 // Instrucciones de uso:
 //
 // gcc argumentos_2.c -o argumentos_2
-// ./argumentos_2 HelloWorld! 32
+// ./argumentos_2 HelloWorld! 4
 
 // Incluimos standard I/O y standard library
 #include <stdio.h>
