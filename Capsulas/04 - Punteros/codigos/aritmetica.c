@@ -1,12 +1,13 @@
 // Instrucciones de uso:
-// gcc 04_aritmetica.c -o aritmetica
+//
+// gcc aritmetica.c -o aritmetica
 // ./aritmetica
 
 // Incluimos standard I/O y standard int
 #include <stdio.h>
 #include <stdint.h>
 
-int main(int argc, char **argv)
+int main(int argc, char** argv)
 {
   // Definamos una serie de varibales
   char a = 'a';
@@ -43,7 +44,7 @@ int main(int argc, char **argv)
 
   // Podemos ver que tambien calzan.
   // Esto hace sentido, porque como b es char y c es int, b esta a sizeof(char)
-  // bytes de c. Luego, cunado hacemos &b + 1, la aritmética de punteros traduce
+  // bytes de c. Luego, cuando hacemos &b + 1, la aritmética de punteros traduce
   // el 1 a sizeof(char).
 
 
@@ -57,8 +58,8 @@ int main(int argc, char **argv)
   // d. Para solucionar esto debemos castear d desde un int* a un double*.
   printf("\t*(&d + 1), e = %lf, %lf\n", *(double *)(&d + 1), e);
 
-  // Esto no pasó para &b + 1 porque resulta ser que un char, en términos prácticos
-  // es manejado como un int por detrás.
+  // Esto no pasó para &b + 1 porque resulta ser que un char, en términos 
+  // prácticos es manejado como un int por detrás.
 
 
   // Finalmente, ¿Que pasaría si sumaramos dos en vez de 1?
@@ -69,10 +70,11 @@ int main(int argc, char **argv)
 
   // Si se dan cuenta, caemos solo en direcciones erroneas!!!!
   // Esto se debe a que como entre b y c el tipo cambia, &a + 2 no lo considera.
-  // Debido a esto caemmos en direcciones que estan entre los valores, o en el caso 
-  // de e de lleno nos salimos del sector inicializado del stack.
+  // Debido a esto caemmos en direcciones que estan entre los valores, o en el 
+  // caso de e de lleno nos salimos del sector inicializado del stack.
 
   // Es por esto que en la mayoría de los casos es mejor dejar la aritmética 
   // de punteros a C.
+  
   return 0;
 }
