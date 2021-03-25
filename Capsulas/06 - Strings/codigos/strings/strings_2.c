@@ -33,7 +33,7 @@ int string_compare(char* A, int n, char* B, int m)
     if (A[i] != B[i]) 
     {
       count += 1;
-    };
+    }
   }
   
   // Retornamos la diferencia
