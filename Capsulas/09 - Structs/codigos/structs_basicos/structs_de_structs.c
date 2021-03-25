@@ -1,6 +1,6 @@
 // Instrucciones de uso:
 //
-// gcc struct_de_structs.c -o struct_de_structs
+// gcc structs_de_structs.c -o struct_de_structs
 // ./struct_de_structs
 
 // Incluimos standard I/O y standard library
