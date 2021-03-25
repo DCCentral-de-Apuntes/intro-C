@@ -1,5 +1,5 @@
 // Nótese que omitimos el pragma once
-// #pragme once
+// #pragma once
 
 // A incluye a B
 #include "B.h"
